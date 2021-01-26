@@ -3177,7 +3177,7 @@
 				"display_name": "学习",
 				"description": "用这个来学习一个新的制作配方。使用后消失。",
 				"bulletin_title": "[str(i18n_data.job_name)] 解锁了 [str(i18n_data.recipe_count)]新配方！",
-				"bulletin_title_single": "[str(i18n_data.job_name)解锁了新的配方！"
+				"bulletin_title_single": "[str(i18n_data.job_name)]解锁了新的配方！"
 			}
 		},
 		"buffs": {
