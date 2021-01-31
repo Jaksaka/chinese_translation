@@ -2,31 +2,31 @@
    "ui": {
       "filters": {
          "molten_glass": {
-            "display_name": "Molten Glass"
+            "display_name": "玻璃液"
          },
          "hot_glass_sheets": {
-            "display_name": "Hot Glass Sheets"
+            "display_name": "高温玻璃薄片"
          },
          "hot_glassware": {
-            "display_name": "Hot Glassware"
+            "display_name": "高温玻璃制品"
          },
          "ashes": {
-            "display_name": "Ashes"
+            "display_name": "灰烬"
          },
          "mineral_products": {
-            "display_name": "Minerals"
+            "display_name": "矿物"
          },
-         "tooltip_refined_resources": "Refined Resources"
+         "tooltip_refined_resources": "精炼资源"
       }
    },
    "jobs": {
       "glassmith": {
          "glassmith_furnace": {
-            "display_name": "Glass Furnace & Marver",
-            "description": "Here the Glassmith can melt glass and start their production.",
-            "recipe_name": "Glass Furnace & Marver",
-            "recipe_description": "The primary workstation of a Glassmith, with a strong stone crucible and a marble table for marvering.",
-            "flavor": "That marble table top is so IN!"
+            "display_name": "玻璃熔炉 & 玻璃板",
+            "description": "嘿玻璃匠可以熔炼玻璃并开始生产.",
+            "recipe_name": "玻璃熔炉 & 玻璃板",
+            "recipe_description": "玻璃匠的主要工作台, 制作玻璃板的一个坚固的石坩埚和一张大理石桌.",
+            "flavor": "这张大理石桌桌面太有个性了!"
          },
          "glassmith_bench": {
             "display_name": "Glassmith's Bench",
